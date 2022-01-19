@@ -1,5 +1,5 @@
 <center>
-<img src="https://github.com/senelmustafa/senelmustafa/blob/main/kedi.jpg?raw=true" />
+<img src="https://github.com/senelmustafa/senelmustafa/blob/main/kedi.jpg?raw=true" />  </center>
 <h1 align="center">Hi 👋, I'm Mustafa ŞENEL</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -32,4 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=senelmustafa&show_icons=true&locale=en" alt="senelmustafa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=senelmustafa&" alt="senelmustafa" /></p>
-  </center>
+
