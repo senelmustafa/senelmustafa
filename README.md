@@ -1,5 +1,5 @@
-<center>
-<img src="https://github.com/senelmustafa/senelmustafa/blob/main/kedi.jpg?raw=true" />  </center>
+
+<img align="center" src="https://github.com/senelmustafa/senelmustafa/blob/main/kedi.jpg?raw=true" />  
 <h1 align="center">Hi 👋, I'm Mustafa ŞENEL</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
