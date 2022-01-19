@@ -1,4 +1,4 @@
-    <div align="center"><img src=  "https://github.com/senelmustafa/senelmustafa/blob/main/kedicik.jpg?raw=true" /></div>
+ <div align="center"><img src="https://github.com/senelmustafa/senelmustafa/blob/main/kedicik.jpg?raw=true" /></div>
 
 <h1 align="center">Hi 👋, I'm Mustafa ŞENEL</h1>
 <h3 align="center">Full Stack Developer-Freelance Graphic Web Designer </h3>
