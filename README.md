@@ -1,8 +1,4 @@
-<style type="text/css">
-body {
-    background-color: #F0E5C1;
-}
-</style>
+ 
  
     <div align="center"><img src=  "https://github.com/senelmustafa/senelmustafa/blob/main/kedicik.jpg?raw=true" /></div>
 
