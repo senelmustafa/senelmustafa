@@ -1,11 +1,7 @@
- 
- 
     <div align="center"><img src=  "https://github.com/senelmustafa/senelmustafa/blob/main/kedicik.jpg?raw=true" /></div>
 
-<h1 align="center">Hi <img src=  "https://https://github.com/senelmustafa/senelmustafa/blob/main/merhaba.png?raw=true" />, I'm Mustafa ŞENEL</h1>
+<h1 align="center">Hi 👋, I'm Mustafa ŞENEL</h1>
 <h3 align="center">Full Stack Developer-Freelance Graphic Web Designer </h3>
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=senelmustafa&label=Profile%20views&color=0e75b6&style=flat" alt="senelmustafa" /> </p>
 
@@ -37,6 +33,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=senelmustafa&" alt="senelmustafa" /></p>
 
-
-    
-   
